@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const CatTriviaApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class CatTriviaApp extends StatelessWidget {
+  const CatTriviaApp({super.key});
 
   // This widget is the root of your application.
   @override
