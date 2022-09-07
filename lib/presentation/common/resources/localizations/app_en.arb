@@ -1,0 +1,8 @@
+{
+    "tryAgain": "Try again",
+    "homeScreenTitle": "Cat trivia",
+    "homeScreenImageLoadingError": "Oopss.. Image loading\n😿\nerror",
+    "homeScreenAction": "Another fact!",
+    "historyScreenTitle": "View history",
+    "historyScreenNoItems": "No history items yet.."
+}
